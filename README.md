@@ -1,9 +1,9 @@
-# Single-cell analysis of PBMC from MPA patients and Healthy donors
+# Single-cell RNAseq analysis and spatial-transcriptome analysis of salivary glands from Sjogren patients
 
 ## Overview
-This repository provides code used for CITE-seq analyses of >100,000 PBMCs from 8 MPA (Mocroscopic Polyangiitis) patients and 7 healthy donors.
+This repository provides code used for scRNAseq using 10x chromium and spatial tanscriptome using Vizgen MERSCOPE 
 
-Nishide M, Nishimura K, et al, "Single-cell multi-omics analysis identifies two distinct phenotypes of newly-onset microscopic polyangiitis", submitted. 
+Tsujimoto K, Nishimura K, et al, "Deciphering the Single-Cell Spatiotemporal Landscape of Tertiary Lymphoid Structures in Primary Sjögren’s Syndrome", submitted. 
 
 ## Software requirements
 ・R version 4.1.0
